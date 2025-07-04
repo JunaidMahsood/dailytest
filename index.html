@@ -3,7 +3,7 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>MCQ Test Platform</title>
+    <title>Daily Test</title>
     <link rel="stylesheet" href="style.css">
     <script src="https://cdnjs.cloudflare.com/ajax/libs/jspdf/2.5.1/jspdf.umd.min.js"></script>
 
@@ -13,15 +13,15 @@
 
 
 <div class="container form-container" id="form-container">
-    <h2>Join the Quiz</h2>
+    <h2>Login</h2>
     <input type="text" placeholder="User Name" id="username">
     <input type="text" placeholder="Contact" id="contact">
-    <button onclick="validateLogin()">Start Quiz</button>
+    <button onclick="validateLogin()">Start Test</button>
     <p id="login-error" style="color:red; font-weight:bold;"></p>
 </div>
 
 <div class="container quiz-container hidden" id="quiz-container">
-    <h1>MCQ Test</h1>
+    <h1>Mock Test</h1>
     <div id="timer" class="glow">Time Left: <span id="time">60s</span></div>
     <form id="quiz-form">
         <div id="questions-area"></div>
