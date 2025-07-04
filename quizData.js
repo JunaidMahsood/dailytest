@@ -561,7 +561,7 @@ C.Escape
 *A.Verbatim
 B.Verbose
 C.Verbiage
-DVerbalism
+D. Verbalism
 
 72.The plants and vegetation of a region (one word substitution)
 *A.Flora
