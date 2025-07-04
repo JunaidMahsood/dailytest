@@ -1,0 +1,28 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Admin Panel</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+    <!-- Home button -->
+    <button class="home-btn" onclick="window.location.href='index.html'">Home</button>
+
+    <!-- Admin Login Section -->
+    <div class="container" id="admin-login">
+        <h2>Admin Login</h2>
+        <input type="password" id="adminPassword" placeholder="Enter Admin Password">
+        <button onclick="checkAdmin()">Login</button>
+    </div>
+
+    <!-- Admin Panel -->
+    <div class="container hidden" id="admin-panel">
+        <h2>Welcome, Admin</h2>
+        <p>You can download quiz results below:</p>
+        <button onclick="downloadCSV()">Download Results CSV</button>
+    </div>
+
+    <script src="admin.js"></script>
+</body>
+</html>

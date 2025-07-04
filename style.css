@@ -1,0 +1,197 @@
+/* Global Background */
+body {
+    margin: 0;
+    padding: 0;
+    min-height: 100vh;
+    font-family: 'Poppins', sans-serif;
+    background: linear-gradient(135deg, #c3ecf5, #e0c3fc);
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    overflow-x: hidden;
+    color: #333;
+}
+
+/* Container (Glassmorphism Card) */
+.container {  
+    width: 90%;
+    max-width: 350px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    background: rgba(255, 255, 255, 0.15);
+    border-radius: 15px;
+    padding: 30px;
+    backdrop-filter: blur(10px);
+    box-shadow: 0 8px 32px 0 rgba(31, 38, 135, 0.37);
+    text-align: center;
+}
+
+.form-wrapper {
+    min-height: calc(100vh - 40px); /* 20px top + 20px bottom */
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+/* Titles */
+h1, h2 {
+    margin-bottom: 20px;
+    color: #2c3e50;
+}
+
+/* Inputs */
+input[type="text"],
+input[type="email"] {
+    width: 90%;
+    margin: 10px 0;
+    padding: 12px;
+    border: none;
+    border-radius: 12px;
+    background: rgba(255, 255, 255, 0.6);
+    color: #333;
+    font-weight: 500;
+    outline: none;
+    box-shadow: 0 0 5px rgba(0,0,0,0.1);
+    transition: background 0.3s;
+}
+
+input[type="text"]:focus,
+input[type="email"]:focus {
+    background: rgba(255, 255, 255, 0.8);
+}
+
+/* Buttons */
+button {
+    margin-top: 20px;
+    padding: 12px 25px;
+    background: linear-gradient(135deg, #6a11cb, #2575fc);
+    border: none;
+    border-radius: 12px;
+    color: white;
+    font-weight: bold;
+    font-size: 16px;
+    cursor: pointer;
+    transition: 0.4s;
+    box-shadow: 0 0 10px #6a11cb;
+}
+
+button:hover {
+    background: linear-gradient(135deg, #2575fc, #6a11cb);
+    box-shadow: 0 0 20px #2575fc, 0 0 30px #6a11cb;
+}
+
+/* Timer */
+#timer {
+    margin: 20px 0;
+    font-size: 22px;
+    font-weight: bold;
+}
+
+/* Timer Glow */
+.glow {
+    color: #6a11cb;
+    text-shadow: 0 0 8px #6a11cb, 0 0 12px #2575fc;
+}
+
+/* Questions */
+.question {
+    margin: 20px 0;
+    background: rgba(255, 255, 255, 0.25);
+    padding: 20px;
+    border-radius: 15px;
+    text-align: left;
+}
+
+/* Radio Buttons and Labels */
+.question label {
+    display: flex;
+    align-items: center;
+    gap: 10px;
+    margin: 10px 0;
+    font-size: 16px;
+    cursor: pointer;
+}
+
+.question input[type="radio"] {
+    accent-color: #6a11cb;
+    transform: scale(1.2);
+}
+
+/* Result Box */
+#result {
+    margin-top: 20px;
+    font-size: 22px;
+    font-weight: bold;
+    color: #28a745;
+    text-shadow: 0 0 8px #28a745;
+}
+
+/* Hidden class */
+.hidden {
+    display: none;
+}
+
+/* Fade Animation */
+@keyframes fadeIn {
+    from { opacity: 0; transform: scale(0.9); }
+    to { opacity: 1; transform: scale(1); }
+}
+
+/* Media Queries for Mobile */
+@media (max-width: 480px) {
+    h1, h2 {
+        font-size: 20px;
+    }
+
+    button {
+        font-size: 14px;
+        padding: 10px 20px;
+    }
+
+    input[type="text"], input[type="email"] {
+        font-size: 14px;
+        padding: 10px;
+    }
+}
+/* Style the Admin Panel button */
+.admin-btn {
+    position: absolute;
+    top: 10px;
+    right: 10px;
+    padding: 10px 15px;
+    background-color: #007bff; /* Blue background */
+    color: white;
+    font-size: 16px;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+    z-index: 10;
+}
+
+/* Hover effect for the button */
+.admin-btn:hover {
+    background-color: #0056b3;
+}
+/* Style for the Home Button */
+.home-btn {
+    position: fixed;
+    top: 20px; /* Adjust to your preference */
+    right: 20px; /* Adjust to your preference */
+    padding: 10px 20px;
+    background-color: #4CAF50; /* Adjust color as needed */
+    color: white;
+    border: none;
+    border-radius: 5px;
+    font-size: 16px;
+    cursor: pointer;
+    z-index: 1000; /* Ensures it stays on top */
+}
+
+/* Hover Effect for Home Button */
+.home-btn:hover {
+    background-color: #45a049; /* Slightly darker shade */
+    transform: scale(1.05); /* Slightly increase the size */
+    transition: 0.3s ease; /* Smooth transition effect */
+}
