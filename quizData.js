@@ -1,694 +1,741 @@
 (function () {
     const quizText = `
 
-[TIMER: 80]
 
-1.Which province in Pakistan reported the highest number of polio cases in 2024?
+[TIMER: 70]
 
-A.Khyber Pakhtunkhwa
-B.Punjab
-C.Sindh
-*D.Balochistan
 
-2. Pakistan Navy is hosting the ____ Multinational Maritime Exercise AMAN-25?
+1.solar system was discovered by?
 
-*A.9th
-B.10th
-C.11th
-D.14th
+A. Aristotle
 
-3.Who has been appointed as the new spokesperson for the Ministry of Foreign Affairs?
+*B. Nicolaus Copernicus
 
-A.Dr. Shamsher Ali
-*B.Shafqat Ali Khan
-C.Tariq Fatemi
+C. Claudius Ptolemy
+
+D. Galileo Galilei
+
+2.Which of the following planets also has no moon?
+
+A. Jupiter
+
+B. Uranus
+
+C. Saturn
+*D. Venus
+
+
+3.Who was the first person to observe Saturn through a telescope?
+
+A. Nicolaus Copernicus
+
+*B. Galileo Galilei
+
+C. Johannes Kepler
+
+D. Isaac Newton
+
+4.What is the main cause of an earthquake?
+A. Heavy rainfall
+
+*B. Sudden movement of tectonic plates
+
+C. High temperature
+
+D. Ocean tides
+
+
+
+5.What does the third law of thermodynamics state?
+A. Energy cannot be created or destroyed
+
+B. Entropy of the universe always increases
+
+C. Heat flows from hot to cold body
+
+*D. Entropy of a perfect crystal becomes zero at absolute zero temperature
+
+
+
+6.What type of lens is used to correct long-sightedness?
+A.diverging lens
+B.concave lens 
+*C.Convex lens 
 D.None of these
 
-4.Who is the Vice President for South Asia at the World Bank who visited Pakistan in January 2025?
+7.Who gave the first scientific theory of evolution?
 
-A.Sri Mulyani Indrawati
-B.David Malpass
-C.Jim Yong Kim
-*D.Martin Raiser
+*A. Jean-Baptiste Lamarck
 
-5.According to the Henley Passport Index 2025, what is the global ranking of Pakistan's passport?
+B. Charles Darwin
 
+C. Gregor Mendel
+
+D. Aristotle
+
+
+
+8.What is the chemical name of laughing gas?
+
+A. Carbon dioxide
+
+B. Ammonia
+
+*C. Nitrous oxide
+
+D. Sulphur dioxide
+
+9.Which layer of the atmosphere is closest to the Earth's surface?
+A.Troposphere
+B.Stratosphere
+C.Exosphere
+*D.None of these
+
+10.Absolute zero temperature is taken as:
+*A.- 273.15°C 
+B.273°C 
+C.- 373.15°C
+D.0°C
+
+11.What is chromatography?
+
+A. A method to boil liquids
+
+*B. A technique to separate mixtures
+C. A way to freeze substances
+D. A method to burn chemicals
+
+12.Deficiency of vitamin B1 (thiamine) causes which disease?
+
+A. Scurvy
+
+B. Rickets
+
+*C. Beriberi
+
+D. Pellagra
+
+13.Enzymes speed up:
+
+A. Blood flow
+
+B. Muscle movement
+
+*C. Chemical reactions
+
+D. Cell division only
+
+14.What does "CT" in CT scan stand for?
+
+*A. Computed Tomography
+B. Cell Test
+
+C. Clinical Test
+
+D. Central Transmission
+
+
+
+15.What is the main use of a fathometer?
+
+A. Measuring air pressure
+
+B. Detecting earthquakes
+
+C. Measuring temperature
+
+
+*D.Measuring depth of water bodies
+
+
+16.What is lalophobia?
+
+A. Fear of heights
+
+B. Fear of water
+
+*C. Fear of speaking
+
+D. Fear of writing
+
+
+
+17.Who is credited with inventing the first thermometer?
+
+A. Albert Einstein
+
+B. Alexander Fleming
+
+*C. Galileo Galilei
+
+D. Isaac Newton
+
+18.Which of the following is an example of an exocrine gland?
+
+A. Pituitary gland
+
+B. 
+Thyroid gland
+
+
+C. Adrenal gland
+
+*D. Salivary gland 
+
+19.What are beta rays?
+
+*A.Streams of high-energy electrons or positrons
+B. Electromagnetic waves
+ 
+C. Neutrons
+
+D. Protons
+
+20.In which direction do lines of latitude run?
+
+A. North to South
+
+B. Diagonally
+
+*C. East to West
+
+D. Vertically
+
+
+
+21.According to which constitution, Pakistan became an Islamic Republic?
+*A.1956 
+B.1962
+C.1973 
+D.None of these
+
+22.Which agreement was signed between India and Pakistan in 1966 to resolve the conflict from the 1965 war?
+A.Lahore Declaration
+*B.Tashkent Agreement 
+C.Shimla Agreement
+D.Agra Summit
+
+23.According to the 1973 constitution of Pakistan, the minimum age to become Prime Minister is: 
+*A.25 years  
+B.35 years 
+C.45 years  
+D.55 years 
+
+24.n which year did Pakistan purchase Gwadar from Oman?
+A.1956
+*B.1958 
+C.1962
+D.None of these
+
+25.The office of Governor-General of Pakistan was replaced by the office of President on:
+A.14 August 1947 
+B.16 October 1951
+*C.23 March 1956 
+D.05 July 1955
+
+26.The first general elections in Pakistan were held on:
+A.Dec 5, 1970 
+B.Dec 6, 1970
+*C.Dec 7, 1970 
+D.Dec 8, 1970
+
+27.The first space satellite launched by Pakistan was:
+*A.Rehbar-1 
+B.Shaheen-1
+C.Badr-II
+D.None of these
+
+28.The Shimla Agreement between Pakistan and India was signed on:
+A.2 July 1960
+B.2 July 1965
+C.2 July 1970 
+*D.2 July 1972 
+
+29.After Indus river, the longest river in Pakistan is:
+*A.Sutlej River
+B.Ravi River
+C.Chinab river
+D.None of these
+ 
+30.The fourth Prime Minister of Pakistan was:
+A.I.I Chundrigar 
+*B.Chaudhry Muhammad Ali 
+C.Huseyn Shaheed Suhrawardy
+D.None of these
+
+31.The First census in Pakistan was held in:
+A.1947
+*B.1951 
+C.1961
+D.1982
+
+32."The Emergence of Pakistan" book is written by: 
+A.Shuja Nawaz 
+*B.Ch. Muhammad Ali 
+C.Ayub Khan
+D.None of these
+
+33.Military courts in Pakistan were established under which amendment? 
+A.20th
+*B.21st 
+C.22nd 
+D.23rd
+  
+34.The state of swat Integrated into Pakistan in:
+A.1968
+*B.1969 
+C.1970
+D.None of these
+
+35.The first recipient of Nishan-e-Haider in Pakistan was:
+A.Tufail Muhammad 
+B.Aziz Bhatti
+*C.Raja Muhammad Sarwar 
+D.Lalak Jan
+
+36.In which year was the Khilafat Movement launched in the Indian subcontinent?
+*A.1919 
+B.1920 
+C.1922
+D.1925
+
+37.How many peaks above 8,000 meters are found in Pakistan?
+A.3
+*B.5 
+C.9
+D.14
+
+38.The famous newspaper “ Comrade” and “Humdard” were launched by:
+*A.Maulana Muhammad Ali Jauhar 
+B.Sir Syed Ahmad Khan
+C.Ch. Rehmat Ali
+D.Shibli Nomani
+
+39.Pak-China border dispute was settled in:
+A.1960
+B.1961
+*C.1963 
+D.None of these 
+
+40.After Sir Agha Khan, the next president of All India Muslim League was:
+A.Wiqar-ul-Mulk
+*B.Raja Sahib of Mahmoodabad 
+C.Mualana Zafer Ali Khan
+D.Mian Muhammad Shafi
+
+41.Hazrat Abu Bakr (RA) belonged to which tribe?
+
+*A.Banu Tamim
+
+B. Banu Umayyah
+
+C. Banu Hashim
+D. Banu Makhzum
+
+42.What does the word Al-Anfal mean?
+
+A. The Helpers
+
+B. The Path
+
+*C. The Spoils of War
+
+D. The Victory
+
+43. How many days were spent in digging the trench during Ghazwa-e-Khandaq?
+
+A. 10 days
+
+B. 15 days
+
+C. 20 days
+*D.6 days
+
+
+44.____________ was called month of migration ?
+A. Muharram
+B. Shaaban
+C. Ramzan
+*D. Rabiul Awal
+
+45.What is a Mutawatir Hadith?
+
+A. A hadith narrated by one companion only
+
+B. A hadith with unknown chain
+
+*C. A hadith narrated by a large number of people in every generation
+
+D. A weak hadith
+
+46.Sunnah Taqririyyah refers to:
+
+A. The actions of the Prophet 
+*B.The approvals (silent consent) of the Prophet
+C.The sayings of the Prophet 
+D. The dreams of the Prophet 
+
+47.What is Qiyas in Islamic law?
+
+*A. Analogical reasoning based on Quran and Sunnah
+B. Consensus of scholars
+
+C. Revelation
+
+D. Personal opinion
+
+48.Who was the youngest son of Prophet Muhammad (SAW)?
+A. Qasim
+
+*B. Ibrahim
+
+C. Abdullah
+
+D. Hasan
+
+49.The second Ashra of Ramadan reflects:
+
+A. Mercy (Rahmah)
+
+B. Punishment
+C. Freedom from Hell
+
+*D. Forgiveness (Maghfirah)
+
+50.Who was the second daughter of Prophet Muhammad(SAW)
+
+A. Fatimah (RA)
+
+*B. Ruqayyah (RA)
+
+C. Umm Kulthum (RA)
+
+D. Zainab (RA 
+
+51.What is the name of the 7th door of Jannah?
+ 
+A. Ar-Rayyan
+
+*B. Al-Iman
+
+C. Al-Sabr
+
+D. Bab Al-Afuw
+
+52. What is Darbe Mehr?
+
+A. A Muslim shrine
+
+B. A Jewish temple
+
+*C. A Zoroastrian fire temple
+
+D. A Buddhist monastery
+
+
+
+53. Ashura is significant because:
+
+A. It marks Eid
+
+*B. It commemorates the martyrdom of Imam Hussain (RA) and many historic events
+
+C. It's the night of Qadr
+
+D. It's the Prophet’s birthday
+
+
+
+54.What was the famous title of Hazrat Khadija (RA)?
+A. Umm al-Mu'mineen
+
+B. Siddiqa
+
+*C. Tahira
+
+D. Amina
+
+
+
+55.The religion associated with Jinja is:
+
+A. Buddhism
+
+B. Confucianism
+
+*C. Shintoism
+
+D. Taoism
+
+56.The grave of the Prophet was prepared by?
+A. Hazrat Abu Bakar
+B. Hazrat Umar
+C. Hazrat Usman
+*D. Hazrat Abu Talha
+
+57.Prophet stayed at Makkah for __________ days after its conquest ?
+A. 5
+B. 10
+*C. 15
+D. 20
+
+58.Which Surah of Quran has Bismillah twice ?
+A. Aal-e-Imraan
+*B. Al-Namal
+C. Yaaseen
+D. Muhammad
+
+59.In surah kahf, which animal is mentioned along with the Ashaab e kahf ?
+*A. Dog
+B. Cat
+C. Horse
+D. woodpecker
+
+60.Umm-ul-Masakeen was the title given to one of the wives of the Prophet (SAW) ?
+A. Harat Sauda (RA)
+B. Hazrat Zainab bente Jehash (RA)
+*C. Hazrat Zainab bente Khuzima (RA)
+D. Hazrat Safia (RA)
+
+61.Always try to be polite __ others.
+*A. to
+B. with
+C. for
+D. on
+
+62.Protractor : Angle :: Ruler : ______ (choose the word that best completes the comparison)
+A. rectangle
+*B. length
+C. classroom
+D. king
+
+63.Antonym of Spurious is _______________?
+A. thoughtless
+B. flexible
+*C. genuine
+D. provident
+
+64.Antonym of SENILE is _____________?
+A. Anile
+B. Doting
+C. Ancient
+*D. Alert
+
+65.Antonym of Kowtow is ___________?
+A. pull
+*B. snub
+C. forage
+D. fawn
+
+66.Synonym of BEMOAN is ___________ ?
+*A. Lament
+B. Denounce
+C. Loathe
+D. Soothe
+
+67.Synonym of cynosure is _________?
+*A. center of attention
+B. obscurity
+C. clown
+D. certainty
+
+68.The “gift of the gab” means you are:
+A.experienced
+B.very intelligent
+*C.skilled in talking
+D.busy
+
+69.“Out of order” means it _____.
+A.is untidy
+*B.doesn’t work
+C.is unavailable
+D.rarel
+
+70.To run away with a lover (one word substitution)
+A.Deceive
+B.Cheat
+C.Escape
+*D.Elope
+
+71.Reproducing or memorizing word for word (one word substitution)
+*A.Verbatim
+B.Verbose
+C.Verbiage
+DVerbalism
+
+72.The plants and vegetation of a region (one word substitution)
+*A.Flora
+B.Fauna
+C.Landscape
+D.Environment
+
+73.The lion has long been a symbol of strength and power but it is a cruel animal.
+A.Complex Sentence
+*B.Compound Sentence
+C.Simple Sentence
+D.Compound-Complex Sentence
+
+74.While the police were using all their skills and knowledge and carrying out a thorough search according to the methods, they had not used their brains.
+*A.Complex Sentence
+B.Compound Sentence
+C.Simple Sentence
+D.Compound-Complex Sentence
+
+75.I we had a boat, we ________ the river.
+A.will cross
+B.would be crossing
+C.would have crossed
+*D.would cross
+
+76.Father said to me, “May you pass the examination” 
+*A.Father prayed that I might pass the examination.
+B.Father said to me that I may pass the examination.
+C.Father prayed that I may pass the examination.
+D.Father said to me that I must pass the examination.
+
+77.I can do it in _______ hour and _______ half.
+A.a, an
+B.an, no article
+C.an, the
+*D.an, a
+
+78.What did you eat for _______ breakfast this morning?
+A.the
+B.a
+C.both a and b
+*D.none
+
+79.Find the correctly spelt word: Simaltanious, Simultaneous, Simultanious, Simaltaneous
+A.Simaltanious
+*B.Simultaneous
+C.Simultanious
+D.Simaltaneous
+
+80.You ___ this. Why did not you use a chance?
+A.can do
+*B.could have done
+C.must do
+D.may do
+
+81.Which country has recently introduced a new 10 years Blue Residency Visa for individuals who have made outstanding contributions to Environmental Protection?
+*A. UAE
+B. Kuwait
+C. Qatar
+D. Saudi Arabia
+
+82.India has won the T20 World Cup twice. Which other teams have also won the ICC Men’s T20 World Cup twice?
+A. Pakistan and South Africa
+*B. West Indies and England
+C. Australia and England
+D. West Indies and South Africa
+
+83.Which country launched its first space agency in June 2024 and plans to make a Mars landing by 2045?
+A. Japan
+*B. South Korea
+C. India
+D. China
+
+84.Which Country is second largest Contributor to UN after USA?
+A. Russia
+B. Saudi Arabia
+*C. China
+D. France
+
+85.Which Country has been Ranked as the Worlds Second Largest Weapons Manufacturer?
+A. USA
+B. Russia
+*C. China
+D. Pakistan
+
+86.Where did Pakistan rank on the GFP Index for global military power?
+A.7th
+B.9th
+*C.12th
+D.14th
+
+87.Which organization downgraded Pakistan's GDP growth outlook for 2025 to 3%?
+*A.IMF
+B.UN
+C.ADB
+D.World Bank
+
+88.Who has been appointed as the Inspector General (IG) of Khyber Pakhtunkhwa?
+A.Arshad Khan
+B.Aslam Khan
+*C.Zulfiqar Hameed
+D.Muhammad Rizwan
+
+89.According to the Henley Passport Index 2025, what is the global ranking of Pakistan's passport?
 A.102nd
-*B.103rd
+*B.103rd 
 C.104th
 D.None of these
 
-6.On January 1, 2025, which two countries became full members of Schengen Area?
+90.Who holds the Presidency of UNSC for January 2025?
+A.Russia
+B.US
+C.China
+*D.Algeria
 
+91.On January 1, 2025, which two countries became full members of Schengen Area?
 A.Croatia and Poland
 *B.Romania and Bulgaria
 C.Hungary and Slovakia
 D.Bulgaria and Cyprus
 
-7. Zoran Milanovic was elected president of which country in January 2025?
+92.Which country did the US remove from the U.S. terrorism list?
+A.Iran
+*B.Cuba
+C.Syria
+D.North Korea
 
-*A.Croatia
-B.Slovenia
-C.Serbia
-D.None of these
+93.What is the ranking of the PAF in the world’s most powerful air forces by Global Firepower?
+A.5th 
+B.4th
+*C.7th
+D.2nd
 
-8.Who was sworn in as the 50th vice president of the United States on January 20, 2025?
-
-A.Tim Scott
-B.Kamala Harris
-*C.James David Vance
-D.Mike Pence
-
-9. Micheal Martin was elected as the prime minister of which country in January 2025?
-
-*A.Ireland
-B.United Kingdom
-C.France
-D.Italy
-
-10.Where did the world’s largest compressed air energy storage project break ground?
-
-A.US
-B.Japan
-*C.China
-D.Germany
-
-11.How many Pakistani Universities were listed in the 2025 world rankings?
-
-A. 36
-B. 42
-*C. 47
-D. 26
-
-12.Pakistan’s first-ever Chief Minister’s Minority Card Program was officially launched in which province?
-
-A. KPK
-B. Sindh
-C. Balochistan
-*D. Punjab
-
-13.PIA resumed flights to which city of Europe after a four-year EU ban?
-
-A.London
-*B.Paris
-C.Mandrid
-D.Frankfurt
-
-14.which country did US remove from the US terrorism list?
-
-*A.cuba
-B.pakistan
-C.afghanistan
-D.iraq
-
-15.Which country holds the ASEAN chairmanship in 2025?
-
-*A.Malaysia
-B.Indonesia
-C.Philippines
-D.Singapore
-
-16. Which country holds the G7 presidency in 2025? 
-
-A.Germany
-B.Japan
-*C.Canada
-D.United Kingdom
-
-17.What is the goal of Mission 300 Africa Energy Summit?
-
-A.Reach carbon neutrality by 2030
-*B.Connect 300 million to electricity by 2030
-C.Reduce energy consumption by 50% by 2030
-D.None of these
-
-18. Where was the 2025 World Economic Forum (WEF) annual meeting held on 20-24?
-
-A.Paris, France
-*B.Davos, Switzerland
-C.London, UK
-D.New York, USA
-
-19.Which two countries have recently signed the 20-year Comprehensive Strategic Partnership treaty on 17 January 2025?
-
-
-A.China and Pakistan
-B.Saudi Arabia and China
-*C.Iran and Russia
-D.None of these
-
-20.Which is the world’s strongest currency according to a recent Forbes report?
-
-*A.Kuwaiti Dinar
-B.Swiss Franc
-C.United States Dollar
-D.Euro
-
-21.Who won the 3rd SAARC Snooker Championship?
-
+94. Who won the 3rd SAARC Snooker Championship?
 A.Muhammad Bilal
 *B.Mohammad Asif
 C.Amir Tariq
 D.None of these
 
-22.What new law did Pakistan’s National Assembly pass on January 21, 2025?
-
+95.What new law did Pakistan’s National Assembly pass on January 21, 2025?
 A.Digital Media Regulation Act
 B.None of these
 C.Social Media Control Act
 *D.Social Media Protection and Regulation Law
 
-23.Which country had the highest economic losses from internet shutdowns in 2024?
+96.Who is the current NATO Chief?
+A.Anders Fogh Rasmussen
+*B.Mark Rutte
+C.Jens Stoltenberg
+D.Alessandro Minuto-Rizzo
 
-*A.Pakistan
-B.Nigeria
-C.Iran
+97.Which edition of General Election was held in Pakistan on 8 February 2024?
+A.10
+B.11
+*C.12
+D.13
+
+98.Which country hosted high-level meeting on Israel-Palestine two-state solution on 13 September 2024?
+A.Qatar
+*B.Spain
+C.UAE
+D.Lebanon
+
+99.Justice Yahya Afridi is the ______Chief Justice of Pakistan.
+A.29th
+*B.30th
+C.31st
 D.None of these
 
-24.What is the ranking of the PAF in the world’s most powerful air forces by Global Firepower?
-
-A.5th
-B.6th
-*C.7th
-D.12th
-
-25.Who resigned as Serbian Prime Minister after months of mass protests recently?
-
-A.Zoran Zivkovic
-B.Aleksandar Vucic
-C.Vucic Milos
-*D.Ana Brnabic
-
-26.Who discovered the Solar system ?
-
-*A. Copernicus
-B. Newton
-C. Galileo
-D. Kepler
-
-27.Second densest planet in the solar system is
-
-*A.Mercury
-B.Venus
-C.Mars
-D.Earth
-
-28.Mercury is the closest planet to the Sun, but Venus is hotter than Mercury because of its_________?
-
-A.Pressure
-B.axis
-*C.atmosphere
-D.surface
-
-29.The Word “Tsunami” belongs to which language?
-
-*A.Japanese
-B.Chinese
-C.English
-D.Urdu
-
-30.Mouna Loa is an example of?
-
-*A.Active volcano
-B.Extinct volcano
-C.Plateau in volcanic region
-D.None of these
-
-31.The point where movement occurred which triggered the earthquake is the _______ .
-
-A.dip
-B.epicenter
-*C.focus
-D.strike
-
-32.How many time zones are there in the world?
-
-A.22
-B.12
-C.16
-*D.24
-
-33.Which of the following lines is considered to be zero degrees longitude?
-
-A.International date line
-*B.Prime Meridian
-C.American date line
-D.Latin date line
-
-34.The largest planet of the solar system is___________?
-
-A.Earth
-B.Mars
-*C.Jupiter
-D.Saturn
-
-35.Which planet is much brighter in our solar system?
-
-A.Earth
-*B.Venus
-C.Mercury
-D.Jupiter
-
-36.What is right order of planets, nearest to farther; starting from closest to Sun?
-
-*A.Mercury, Venus, Earth, Mars
-B.Mars, Mercury, Earth, Venus
-C.Mercury, Venus, Mars, Earth
-D.None of these
-
-37.Which is the largest among the following?
-
-A.Earth
-B.The Sun
-C.Solar System
-*D.Galaxy
-
-38.The planet of the solar system which has maximum numbers of Moon/Satellites?
-
-A.Jupiter
-B.Venus
-*C.Saturn
-D.Uranus
-39. The planet with the shortest rotation time around its axis is ____?
-
-*A.Jupiter
-B.Mars
-C.Earth
-D.None of these
-
-40.What is the main composition of the sun?
-
-A. Oxygen and Ammonia
-*B. Hydrogen and  Helium
-C. Hydrogen and Oxygen
-D. Methane and Hydrogen
-
-41.Where do most of Asteroids lie?
-
-*A. In asteroid belt between the orbits of Mars and Jupiter
-B. In asteroid belt between the orbits of Mars and Venus
-C. In asteroid belt between the orbits of Jupiter and Venus
-D. Everywhere in the sky
-
-42.Which ocean is called “Ring of Fire”?
-
-A. Indian Ocean
-*B. Pacific Ocean
-C. Atlantic Ocean
-D. Antarctic Ocean
-
-43.Which planet is much brighter in our solar system?
-
-A. Earth
-*B. Venus
-C. Mercury
-D. Jupiter
-
-44.Which Planet is Called Great Red Spot?
-
-A. Neptune
-B. Mars
-*C. Jupiter
-D. Mercury
-
-45.Earth revolves around the sun from?
-
-A. East to West
-*B. West to East
-C. South to North
-D. North to South
-
-46.The second largest moon “titan” is belongs to which planet?
-
-A. Uranus
-B. Venus
-*C. Saturn
-D. Mercury
-
-47.Largest moon in our solar system is ________?
-
-A. Deimos
-*B. Ganymede
-C. Phobos
-D. Arche
-
-48.The most abundant element in the Earth’s crust is __________?
-
-*A. Oxygen
-B. Hydrogen
-C. Carbon Dioxide
-D. Silicon
-
-49.What is the main gas (78%) composing the Earth's atmosphere?
-A. Oxygen
-B. Carbon dioxide
-*C. Nitrogen
-D Argon
-
-50.Which is the only planet that rotates clockwise?
-
-A. Jupiter
-*B. Venus
-C. Earth
-D. Mercury
-
-51.Genuine : Authentic : : Mirage : _________?
-
-A. Hideout
-*B. Illusion
-C. Image
-D. Reflection
-
-52.Synonym of Abrogate
-
-A.elope
-B.gate-crash
-*C.abolish
-D.Refrain
-
-53.Synonym of ABOMINABLE
-
-*A.Detestable
-B.Odd
-C.Moderate
-D.Fine
-
-54.Synonym of Baffle 
-
-A.Confirm
-B.Clear
-*C.Confuse
-D.None of these
-
-55. synonym of 'Callous' 
-
-A.Kind
-*B.Heartless
-C.Polite
-D.All of these
-
-56.Synonym of DEFT
-
-*A.Skilful
-B.Vigorous
-C.Swift
-D.Deceitful
-
-57.Synonym of EGREGIOUS
-
-A.Progressive
-*B.Superficial
-C.Shocking
-D.Cowardly
-
-58.Aboriginal   :      :: Naïve :   unsophisticated
-
-A.learned
-B.arid
-*C.Native
-D.Alien
-
-59.Synonym of Baleful
-
-A.Useful
-B.Helpful
-*C.Harmful
-D.Doubtful
-
-60.Synonym of Cadaver 
-
-*A. Corpse
-B. Friendship
-C. Hatred
-D. Outline
-
-
-61.Antonym of abstemious
-
-A. Gluttonous
-*B. Greedy
-C. Hungry
-D. All of these
-
-62.Antonym of  camouflage
-
-A.Mask
-B.Conceal
-C.Disguise
-*D.Reveal
-
-63.Antonym of  abate
-
-*A.Increase
-B.Diminish
-C.Decline
-D.Trivial
-
-64.Antonym of abet
-
-A.risk
-*B.hinder
-C.aid
-D.pacify
-
-65.Antonym of De Jure
-
-A.by law
-B.by right
-*C.unlawful
-D.legally
-
-66.Antonym of  cadge
-
-A.beg
-B.borrow
-*C.give
-D.scrounge
-
-67.Antonym of absolve
-
-A.Execute
-B.Condemn
-*C.Both a&b
-D.Exculpate
-
-68.Antonym of  abseil
-
-A.descend
-*B.climb
-C.fall
-D.execute
-
-69.Antonym of  Abridge
-
-A.Subdue
-*B.Expand
-C.Encourage
-D.Elaborate
-
-70.Antonym of daft 
-
-A.silly
-B.foolish
-*C.intelligent
-D.scare
-
-71. he main occupation of the people of the Indus valley civilization was_____________?
-
-*A. Agriculture
-B. Cattle rearing
-C. Hunting
-D. Trade
-
-72.The Script Of Indus Valley Civilization Was_________?
-
-A.Persian
-*B.Dravidian
-C.Sanskrit
-D.None of these
-
-73.The Great Bath of the Indus Valley Civilization was discovered in___________?
-
-A.Harappa
-B.Lothal
-*C.Mohenjodaro
-D.Ropar
-
-74.How many years slave dynasty ruled India?
-
-A.82
-*B.84
-C.86
-D.None of these
-
-75.Which Slave Ruler Died While Playing Polo?
-
-*A. Qutb-ud-Aibak
-B. Aram Shah
-C. Shams-ud-Din Iltutmish
-D. Rukn-ud-Din Feroz
-
-76.What is called as the most brutal sin (“Zulm-e-Azeem”) by the Holy Quran?
-
-A.Murder
-*B.Shirk
-C.Adultery
-D.Quitting Salah
-
-77.Which prophet of Allah is called Abu Al-Bashar?
-
-A. Hazrat Nooh (AH)
-B. Hazrat Ibrahim (AH)
-*C. Hazrat Adam (AH)
-D. Hazrat Ayub (AH)
-
-78.Rooh Ullah is a title of which prophet?
-
-A. Hazrat IBRAHIM (A.S)
-B. HAZRAT DAUD (A.S)
-*C. HAZRAT ESA (A.S)
-D. HAZRAT MOOSA (A.S)
-
-79.What was the relation between Prophet Moosa (A.S) and Prophet Haroon (A.S)?
-
-A. Prophet Moosa (A.S) was father of Prophet Haroon (A.S)
-B. Prophet Haroon (A.S) was father of Prophet Moosa (A.S)
-*C. Brothers
-D. Cousins
-
-80.What is the present shape of Quran?
-A.Toukeeli
-B.Tawakkal
-*C.Taufeeqi
-D.None of these
-
-81.Habibullah is the title of which prophet?
-
-A.Hazrat Ibrahim (AS)
-B.Hazrat Moosa (AS)
-C.Hazrat Younis (AS)
-*D.Hazrat Muhammad (PBUH)
-
-82.Injeel means________________?
-A. Light
-B. Sign
-C. Peace
-*D. Good news
-
-83.In the Holy Quran, Rooh-ul-Ameen is the title of _____?
-
-A. Angel Michael
-*B.Angel Jibril
-C.Angel Israfil
-D.Angel Azrael
-
-84.When ?ve prayers became Farz?
-A. 12th Nabvi
-*B. 10th Nabvi
-C. 13th Nabvi
-D. 11th Nabvi
-
-85.How many prayers were initially made obligatory in Shab-e-Meraj?
-A. 3
-B. 4
-C. 10
-*D. 50
-
-86.When Wazu (Ablution) was ordered?
-
-A.2 A.H
-B.3 A.H
-C.4 A.H
-*D.5 A.H
-
-87.First Azan was called out in_______ A.H.
-A. 3 A.H.
-B. 2 A.H.
-*C. 1 A.H.
-D. 4 A.H.
-
-88.Salat-e-Istasqa is offered on the occasion of?
-*A. Shortage of Rain
-B. Solar eclipse
-C. Famin
-D. None of them
-
-89.When was the Qiblah changed?
-*A. 2nd Hijri
-B. 3rd Hijri
-C. 4th Hijri
-D. Ist Hijri
-
-90.In which Hijri year Zakat was imposed?
-*A. 2 Hajri
-B. 3 Hajri
-C. 4 Hajri
-D. 5 Hajri
-
-91.How many times word zakat is uesd in Makki surahs?
-*A. 22 
-B. 21
-C. 19
-D. 23
-
-92.Which Khulifa-e-Rashid announced the war against the people who were unwilling to pay zakat?
-*A. Hazrat Abu Bakar Siddique (R.A)
-B. Hazrat Umar Farooq (R.A)
-C. Hazrat Usman Ghani (R.A)
-D. Hazrat Ali (R.A)
-
-93.Fasting was made obligatory in ______.
-*A. 2 A.H
-B. 5 A.H
-C. 6 A.H
-D. 1 A.H
-
-94.First Ashra (First ten days of Ramadan) is known as?
-*A. Days of Mercy
-B. Days of Forgiveness
-C. Days to seek refuge from Hellfire
-D. None of these
-
-95.when was first Hajj performed by muslims
-*A. 9 Hajri
-B. 10 Hijri
-C. 11 Hijri
-D. 8 Hijri
-
-96.How many Hajj were performed by Hazrat Muhammad (P.B.U.H)?
-*A. One
-B. Two
-C. Three
-D. Four
-
-97.How much camels were sacrificed on the occasion of Hajj by Hazrat Muhammad (P.B.U.H)?
-A. 60 camels
-*B. 63 camels
-C. 65 camels
-D. 67 camels
-
-98.When did Holy prophet (SAW) go to perform Hajj?
-*A. 10th Hijri
-B. 9th Hijri
-C. 11th Hijrid
-D. 8th Hijri
-
-99.How many cows render are to pay Zakat?
-
-*A. 30-40
-B. 40-50
-C. 50-55
-D. 55-57
-
-100. On gold falqaram (nisab) is____________?
-*A. 7 1/2 Tolas
-B. 8 1/2 Tolas
-C. 9 1/2 Tolas
-D. 10 1/2 Tolas
-
-
-
-
+100.Which country has recently become the world most sanctioned country in the World?
+A.Iran
+B.North Korea
+*C.Russia
+D.Venezuela
 
 
 
