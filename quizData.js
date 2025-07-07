@@ -2,741 +2,614 @@
     const quizText = `
 
 
-[TIMER: 70]
-
-
-1.solar system was discovered by?
-
-A. Aristotle
-
-*B. Nicolaus Copernicus
-
-C. Claudius Ptolemy
-
-D. Galileo Galilei
-
-2.Which of the following planets also has no moon?
-
-A. Jupiter
-
-B. Uranus
-
-C. Saturn
-*D. Venus
-
-
-3.Who was the first person to observe Saturn through a telescope?
-
-A. Nicolaus Copernicus
-
-*B. Galileo Galilei
-
-C. Johannes Kepler
-
-D. Isaac Newton
-
-4.What is the main cause of an earthquake?
-A. Heavy rainfall
-
-*B. Sudden movement of tectonic plates
-
-C. High temperature
-
-D. Ocean tides
-
-
-
-5.What does the third law of thermodynamics state?
-A. Energy cannot be created or destroyed
-
-B. Entropy of the universe always increases
-
-C. Heat flows from hot to cold body
-
-*D. Entropy of a perfect crystal becomes zero at absolute zero temperature
-
-
-
-6.What type of lens is used to correct long-sightedness?
-A.diverging lens
-B.concave lens 
-*C.Convex lens 
-D.None of these
-
-7.Who gave the first scientific theory of evolution?
-
-*A. Jean-Baptiste Lamarck
-
-B. Charles Darwin
-
-C. Gregor Mendel
-
-D. Aristotle
-
-
-
-8.What is the chemical name of laughing gas?
-
-A. Carbon dioxide
-
-B. Ammonia
-
-*C. Nitrous oxide
-
-D. Sulphur dioxide
-
-9.Which layer of the atmosphere is closest to the Earth's surface?
-A.Troposphere
-B.Stratosphere
-C.Exosphere
-*D.None of these
-
-10.Absolute zero temperature is taken as:
-*A.- 273.15°C 
-B.273°C 
-C.- 373.15°C
-D.0°C
-
-11.What is chromatography?
-
-A. A method to boil liquids
-
-*B. A technique to separate mixtures
-C. A way to freeze substances
-D. A method to burn chemicals
-
-12.Deficiency of vitamin B1 (thiamine) causes which disease?
-
-A. Scurvy
-
-B. Rickets
-
-*C. Beriberi
-
-D. Pellagra
-
-13.Enzymes speed up:
-
-A. Blood flow
-
-B. Muscle movement
-
-*C. Chemical reactions
-
-D. Cell division only
-
-14.What does "CT" in CT scan stand for?
-
-*A. Computed Tomography
-B. Cell Test
-
-C. Clinical Test
-
-D. Central Transmission
-
-
-
-15.What is the main use of a fathometer?
-
-A. Measuring air pressure
-
-B. Detecting earthquakes
-
-C. Measuring temperature
-
-
-*D.Measuring depth of water bodies
-
-
-16.What is lalophobia?
-
-A. Fear of heights
-
-B. Fear of water
-
-*C. Fear of speaking
-
-D. Fear of writing
-
-
-
-17.Who is credited with inventing the first thermometer?
-
-A. Albert Einstein
-
-B. Alexander Fleming
-
-*C. Galileo Galilei
-
-D. Isaac Newton
-
-18.Which of the following is an example of an exocrine gland?
-
-A. Pituitary gland
-
-B. 
-Thyroid gland
-
-
-C. Adrenal gland
-
-*D. Salivary gland 
-
-19.What are beta rays?
-
-*A.Streams of high-energy electrons or positrons
-B. Electromagnetic waves
- 
-C. Neutrons
-
-D. Protons
-
-20.In which direction do lines of latitude run?
-
-A. North to South
-
-B. Diagonally
-
-*C. East to West
-
-D. Vertically
-
-
-
-21.According to which constitution, Pakistan became an Islamic Republic?
-*A.1956 
-B.1962
-C.1973 
-D.None of these
-
-22.Which agreement was signed between India and Pakistan in 1966 to resolve the conflict from the 1965 war?
-A.Lahore Declaration
-*B.Tashkent Agreement 
-C.Shimla Agreement
-D.Agra Summit
-
-23.According to the 1973 constitution of Pakistan, the minimum age to become Prime Minister is: 
-*A.25 years  
-B.35 years 
-C.45 years  
-D.55 years 
-
-24.n which year did Pakistan purchase Gwadar from Oman?
-A.1956
-*B.1958 
-C.1962
-D.None of these
-
-25.The office of Governor-General of Pakistan was replaced by the office of President on:
-A.14 August 1947 
-B.16 October 1951
-*C.23 March 1956 
-D.05 July 1955
-
-26.The first general elections in Pakistan were held on:
-A.Dec 5, 1970 
-B.Dec 6, 1970
-*C.Dec 7, 1970 
-D.Dec 8, 1970
-
-27.The first space satellite launched by Pakistan was:
-*A.Rehbar-1 
-B.Shaheen-1
-C.Badr-II
-D.None of these
-
-28.The Shimla Agreement between Pakistan and India was signed on:
-A.2 July 1960
-B.2 July 1965
-C.2 July 1970 
-*D.2 July 1972 
-
-29.After Indus river, the longest river in Pakistan is:
-*A.Sutlej River
-B.Ravi River
-C.Chinab river
-D.None of these
- 
-30.The fourth Prime Minister of Pakistan was:
-A.I.I Chundrigar 
-*B.Chaudhry Muhammad Ali 
-C.Huseyn Shaheed Suhrawardy
-D.None of these
-
-31.The First census in Pakistan was held in:
-A.1947
-*B.1951 
-C.1961
-D.1982
-
-32."The Emergence of Pakistan" book is written by: 
-A.Shuja Nawaz 
-*B.Ch. Muhammad Ali 
-C.Ayub Khan
-D.None of these
-
-33.Military courts in Pakistan were established under which amendment? 
-A.20th
-*B.21st 
-C.22nd 
-D.23rd
-  
-34.The state of swat Integrated into Pakistan in:
-A.1968
-*B.1969 
-C.1970
-D.None of these
-
-35.The first recipient of Nishan-e-Haider in Pakistan was:
-A.Tufail Muhammad 
-B.Aziz Bhatti
-*C.Raja Muhammad Sarwar 
-D.Lalak Jan
-
-36.In which year was the Khilafat Movement launched in the Indian subcontinent?
-*A.1919 
-B.1920 
-C.1922
-D.1925
-
-37.How many peaks above 8,000 meters are found in Pakistan?
-A.3
-*B.5 
-C.9
-D.14
-
-38.The famous newspaper “ Comrade” and “Humdard” were launched by:
-*A.Maulana Muhammad Ali Jauhar 
-B.Sir Syed Ahmad Khan
-C.Ch. Rehmat Ali
-D.Shibli Nomani
-
-39.Pak-China border dispute was settled in:
-A.1960
-B.1961
-*C.1963 
-D.None of these 
-
-40.After Sir Agha Khan, the next president of All India Muslim League was:
-A.Wiqar-ul-Mulk
-*B.Raja Sahib of Mahmoodabad 
-C.Mualana Zafer Ali Khan
-D.Mian Muhammad Shafi
-
-41.Hazrat Abu Bakr (RA) belonged to which tribe?
-
-*A.Banu Tamim
-
-B. Banu Umayyah
-
-C. Banu Hashim
-D. Banu Makhzum
-
-42.What does the word Al-Anfal mean?
-
-A. The Helpers
-
-B. The Path
-
-*C. The Spoils of War
-
-D. The Victory
-
-43. How many days were spent in digging the trench during Ghazwa-e-Khandaq?
-
-A. 10 days
-
-B. 15 days
-
-C. 20 days
-*D.6 days
-
-
-44.____________ was called month of migration ?
-A. Muharram
-B. Shaaban
-C. Ramzan
-*D. Rabiul Awal
-
-45.What is a Mutawatir Hadith?
-
-A. A hadith narrated by one companion only
-
-B. A hadith with unknown chain
-
-*C. A hadith narrated by a large number of people in every generation
-
-D. A weak hadith
-
-46.Sunnah Taqririyyah refers to:
-
-A. The actions of the Prophet 
-*B.The approvals (silent consent) of the Prophet
-C.The sayings of the Prophet 
-D. The dreams of the Prophet 
-
-47.What is Qiyas in Islamic law?
-
-*A. Analogical reasoning based on Quran and Sunnah
-B. Consensus of scholars
-
-C. Revelation
-
-D. Personal opinion
-
-48.Who was the youngest son of Prophet Muhammad (SAW)?
-A. Qasim
-
-*B. Ibrahim
-
-C. Abdullah
-
-D. Hasan
-
-49.The second Ashra of Ramadan reflects:
-
-A. Mercy (Rahmah)
-
-B. Punishment
-C. Freedom from Hell
-
-*D. Forgiveness (Maghfirah)
-
-50.Who was the second daughter of Prophet Muhammad(SAW)
-
-A. Fatimah (RA)
-
-*B. Ruqayyah (RA)
-
-C. Umm Kulthum (RA)
-
-D. Zainab (RA 
-
-51.What is the name of the 7th door of Jannah?
- 
-A. Ar-Rayyan
-
-*B. Al-Iman
-
-C. Al-Sabr
-
-D. Bab Al-Afuw
-
-52. What is Darbe Mehr?
-
-A. A Muslim shrine
-
-B. A Jewish temple
-
-*C. A Zoroastrian fire temple
-
-D. A Buddhist monastery
-
-
-
-53. Ashura is significant because:
-
-A. It marks Eid
-
-*B. It commemorates the martyrdom of Imam Hussain (RA) and many historic events
-
-C. It's the night of Qadr
-
-D. It's the Prophet’s birthday
-
-
-
-54.What was the famous title of Hazrat Khadija (RA)?
-A. Umm al-Mu'mineen
-
-B. Siddiqa
-
-*C. Tahira
-
-D. Amina
-
-
-
-55.The religion associated with Jinja is:
-
-A. Buddhism
-
-B. Confucianism
-
-*C. Shintoism
-
-D. Taoism
-
-56.The grave of the Prophet was prepared by?
-A. Hazrat Abu Bakar
-B. Hazrat Umar
-C. Hazrat Usman
-*D. Hazrat Abu Talha
-
-57.Prophet stayed at Makkah for __________ days after its conquest ?
-A. 5
-B. 10
-*C. 15
-D. 20
-
-58.Which Surah of Quran has Bismillah twice ?
-A. Aal-e-Imraan
-*B. Al-Namal
-C. Yaaseen
-D. Muhammad
-
-59.In surah kahf, which animal is mentioned along with the Ashaab e kahf ?
-*A. Dog
-B. Cat
-C. Horse
-D. woodpecker
-
-60.Umm-ul-Masakeen was the title given to one of the wives of the Prophet (SAW) ?
-A. Harat Sauda (RA)
-B. Hazrat Zainab bente Jehash (RA)
-*C. Hazrat Zainab bente Khuzima (RA)
-D. Hazrat Safia (RA)
-
-61.Always try to be polite __ others.
-*A. to
-B. with
-C. for
-D. on
-
-62.Protractor : Angle :: Ruler : ______ (choose the word that best completes the comparison)
-A. rectangle
-*B. length
-C. classroom
-D. king
-
-63.Antonym of Spurious is _______________?
-A. thoughtless
-B. flexible
-*C. genuine
-D. provident
-
-64.Antonym of SENILE is _____________?
-A. Anile
-B. Doting
-C. Ancient
-*D. Alert
-
-65.Antonym of Kowtow is ___________?
-A. pull
-*B. snub
-C. forage
-D. fawn
-
-66.Synonym of BEMOAN is ___________ ?
-*A. Lament
-B. Denounce
-C. Loathe
-D. Soothe
-
-67.Synonym of cynosure is _________?
-*A. center of attention
-B. obscurity
-C. clown
-D. certainty
-
-68.The “gift of the gab” means you are:
-A.experienced
-B.very intelligent
-*C.skilled in talking
-D.busy
-
-69.“Out of order” means it _____.
-A.is untidy
-*B.doesn’t work
-C.is unavailable
-D.rarel
-
-70.To run away with a lover (one word substitution)
-A.Deceive
-B.Cheat
-C.Escape
-*D.Elope
-
-71.Reproducing or memorizing word for word (one word substitution)
-*A.Verbatim
-B.Verbose
-C.Verbiage
-D. Verbalism
-
-72.The plants and vegetation of a region (one word substitution)
-*A.Flora
-B.Fauna
-C.Landscape
-D.Environment
-
-73.The lion has long been a symbol of strength and power but it is a cruel animal.
-A.Complex Sentence
-*B.Compound Sentence
-C.Simple Sentence
-D.Compound-Complex Sentence
-
-74.While the police were using all their skills and knowledge and carrying out a thorough search according to the methods, they had not used their brains.
-*A.Complex Sentence
-B.Compound Sentence
-C.Simple Sentence
-D.Compound-Complex Sentence
-
-75.I we had a boat, we ________ the river.
-A.will cross
-B.would be crossing
-C.would have crossed
-*D.would cross
-
-76.Father said to me, “May you pass the examination” 
-*A.Father prayed that I might pass the examination.
-B.Father said to me that I may pass the examination.
-C.Father prayed that I may pass the examination.
-D.Father said to me that I must pass the examination.
-
-77.I can do it in _______ hour and _______ half.
-A.a, an
-B.an, no article
-C.an, the
-*D.an, a
-
-78.What did you eat for _______ breakfast this morning?
-A.the
-B.a
-C.both a and b
-*D.none
-
-79.Find the correctly spelt word: Simaltanious, Simultaneous, Simultanious, Simaltaneous
-A.Simaltanious
-*B.Simultaneous
-C.Simultanious
-D.Simaltaneous
-
-80.You ___ this. Why did not you use a chance?
-A.can do
-*B.could have done
-C.must do
-D.may do
-
-81.Which country has recently introduced a new 10 years Blue Residency Visa for individuals who have made outstanding contributions to Environmental Protection?
-*A. UAE
-B. Kuwait
-C. Qatar
-D. Saudi Arabia
-
-82.India has won the T20 World Cup twice. Which other teams have also won the ICC Men’s T20 World Cup twice?
-A. Pakistan and South Africa
-*B. West Indies and England
-C. Australia and England
-D. West Indies and South Africa
-
-83.Which country launched its first space agency in June 2024 and plans to make a Mars landing by 2045?
-A. Japan
-*B. South Korea
-C. India
+[TIMER:60]
+
+1. Which isotope is used in radiocarbon dating to estimate the age of organic remains?
+A. Carbon-12
+*B. Carbon-14
+C. Carbon-13
+D. Carbon monoxide
+
+2. In human physiology, which mechanism maintains a stable internal environment despite external changes?
+A. Adaptation
+B. Metabolism
+*C. Homeostasis
+D. Reflex arc
+
+3. Why is distilled water a poor conductor of electricity?
+A. Due to its temperature
+*B. Due to absence of free ions
+C. Due to presence of gases
+D. Because it is alkaline
+
+4. Which of the following hormones regulates circadian rhythms and is secreted by the pineal gland?
+A. Adrenaline
+B. Dopamine
+*C. Melatonin
+D. Serotonin
+
+5. The greenhouse effect is primarily due to which of the following gases trapping infrared radiation?
+A. Oxygen
+B. Nitrogen
+*C. Carbon dioxide
+D. Chlorine
+
+6. In terms of physics, which phenomenon explains the apparent bending of a straw in water?
+A. Diffraction
+B. Reflection
+*C. Refraction
+D. Dispersion
+
+7. What is the main cause of ocean acidification, and how does it affect marine life?
+A. Increased oxygen reduces calcium
+B. Plastics altering pH
+*C. Absorption of atmospheric CO₂ reduces carbonate ions
+D. Rise in temperature lowers salinity
+
+8. Which of the following processes is non-spontaneous and requires continuous energy input in biological systems?
+A. Diffusion
+B. Osmosis
+*C. Active Transport
+D. Fermentation
+
+9. What makes RNA viruses (like SARS-CoV-2) evolve faster than DNA viruses?
+A. Higher mutation resistance
+B. Slower replication
+*C. Lack of proofreading enzymes
+D. Presence of ribosomes
+
+10. Which branch of physics studies the behavior of particles at atomic and subatomic levels?
+A. Thermodynamics
+*B. Quantum Mechanics
+C. Classical Mechanics
+D. Electromagnetism
+
+11. Which of the following is responsible for the synthesis of ATP during oxidative phosphorylation?
+A. Golgi Apparatus
+B. Endoplasmic Reticulum
+*C. Mitochondrial inner membrane (via ATP Synthase)
+D. Cytoplasm
+
+12. What does the “half-life” of a radioactive substance represent?
+A. Time to become harmless
+*B. Time for half the atoms to decay
+C. Time for total decay
+D. Rate of electron emission
+
+13. Why can a geostationary satellite not be placed over the poles?
+A. Earth's shape is not perfect sphere
+*B. Satellite would not remain fixed relative to Earth’s rotation
+C. Orbital velocity is too high
+D. Gravity is weaker at poles
+
+14. Which electromagnetic wave is used in night-vision devices?
+A. Ultraviolet
+*B. Infrared
+C. Gamma
+D. X-rays
+
+15. What does the term “vector-borne disease” signify in epidemiology?
+A. Spread via social contact
+*B. Transmission via an intermediate host organism
+C. Spread through air
+D. Caused by poor hygiene
+
+16. How does deforestation influence the carbon cycle?
+A. Increases soil fertility
+*B. Reduces carbon sequestration, increases atmospheric CO₂
+C. Promotes photosynthesis
+D. Decreases ozone levels
+
+17. Which principle underlies the working of hydraulic brakes in vehicles?
+A. Bernoulli’s Principle
+B. Newton’s First Law
+*C. Pascal’s Law
+D. Archimedes’ Principle
+
+18. Why are viruses considered “neither truly alive nor dead”?
+A. They lack oxygen
+B. They do not move
+*C. They cannot metabolize or reproduce without a host
+D. They have incomplete DNA
+
+19. Which of the following is a secondary pollutant formed in the atmosphere?
+A. Sulphur Dioxide
+*B. Ozone (Tropospheric)
+C. Carbon Monoxide
+D. Methane
+
+20. Which phenomenon explains why we observe red sunsets and blue skies?
+A. Total internal reflection
+*B. Rayleigh Scattering
+C. Refraction
+D. Absorption of light
+
+21. Under which constitutional article is the Council of Common Interests (CCI) formed in Pakistan?
+A. Article 141
+B. Article 152
+*C. Article 153
+D. Article 160
+
+22. Who was the first Muslim president of the Indian National Congress?
+A. Sir Syed Ahmed Khan
+*B. Badruddin Tyabji
+C. Maulana Azad
+D. A.K. Fazlul Huq
+
+23. The Indus Waters Treaty was brokered by which international organization?
+A. United Nations
+B. SAARC
+*C. World Bank
+D. Commonwealth
+
+24. The Objectives Resolution was passed by the Constituent Assembly of Pakistan in which year?
+A. 1948
+B. 1955
+*C. 1949
+D. 1956
+
+25. In which constitutional amendment was the name of NWFP changed to Khyber Pakhtunkhwa?
+A. 16th Amendment
+B. 18th Amendment
+*C. 18th Amendment
+D. 20th Amendment
+
+26. Which city is located nearest to the geographic center of Pakistan?
+A. Lahore
+B. Islamabad
+*C. Dera Ghazi Khan
+D. Multan
+
+27. Which Indian leader first presented the idea of separate electorates for Muslims?
+A. Gandhi
+B. Nehru
+*C. Lord Minto
+D. Tilak
+
+28. Which of the following events led directly to the creation of Muslim League in 1906?
+A. Partition of Bengal
+*B. Simla Deputation
+C. Round Table Conference
+D. Khilafat Movement
+
+29. Which Pakistani constitution introduced the Presidential System for the first time?
+A. 1956 Constitution
+*B. 1962 Constitution
+C. 1973 Constitution
+D. Interim Constitution 1947
+
+30. Which river forms the boundary between Punjab and Khyber Pakhtunkhwa in parts?
+A. Chenab
+B. Ravi
+*C. Indus
+D. Jhelum
+
+31. The “Delhi Proposals” of 1927 by the Muslim League were primarily a reaction to which political development?
+A. Khilafat Movement failure
+*B. Nehru Report preparations
+C. Partition of Bengal
+D. Round Table Conference
+
+32. Which lesser-known agreement of 1946 proposed a loose Indian union and was accepted by the Muslim League but rejected by the Congress?
+A. Lucknow Pact
+*B. Cabinet Mission Plan
+C. Gandhi-Jinnah Talks
+D. Liaquat-Nehru Pact
+
+33. The One Unit Scheme of 1955 was primarily aimed at:
+A. Separating East and West Pakistan
+*B. Reducing inter-provincial disparities and counterbalancing East Pakistan
+C. Strengthening democracy
+D. Securing IMF support
+
+34. Which clause of the 1973 Constitution defines the Objectives Resolution as a substantive part of the Constitution?
+A. Article 19
+B. Article 239
+*C. Article 2A
+D. Article 8
+
+35. The first Martial Law Regulation issued by Ayub Khan in 1958 was related to:
+A. Nationalization
+B. Dismissal of judges
+*C. Ban on political parties and dissolution of assemblies
+D. Press censorship
+
+36. What was the key constitutional difference between the 1956 and 1962 Constitutions of Pakistan?
+A. Federal structure
+B. Length of presidential term
+*C. Shift from parliamentary to presidential system
+D. Islamic status of the state
+
+37. Which historical movement had the slogan "Muslim hai tu Muslim League mein aa"?
+A. Pakistan Movement
+*B. Direct Action Day (1946)
+C. Khilafat Movement
+D. Bengal Partition
+
+38. Which Indian political development most directly led to the presentation of the Lahore Resolution in 1940?
+A. 1937 Elections and Congress ministries’ behavior
+B. Partition of Bengal
+*C. Failure of Hindu-Muslim political cooperation after Congress rule
+D. Round Table Conferences
+
+39. The Agartala Conspiracy Case was associated with which political leader?
+A. Zulfikar Ali Bhutto
+B. Yahya Khan
+*C. Sheikh Mujibur Rahman
+D. Ayub Khan
+
+40. The strategic significance of Gwadar is primarily due to:
+A. Fishing exports
+*B. Proximity to Strait of Hormuz and BRI route
+C. Domestic tourism
+D. Natural gas reserves
+
+41. According to Imam Ghazali, the source of knowledge that provides certainty in matters of the unseen is?
+A. Reason
+B. Sense Perception
+*C. Prophetic Revelation
+D. Consensus
+
+42. The Qur'anic term “Hablullah” (Rope of Allah) in Surah Aal-e-Imran refers to:
+A. Salah
+B. Zakat
+*C. The Qur’an and Unity
+D. Tawheed
+
+43. The verse of "al-Nur" (Light Verse) is found in which Surah?
+A. Surah Al-Baqarah
+*B. Surah Al-Nur
+C. Surah Al-Hadid
+D. Surah Al-Ahzab
+
+44. Which Islamic thinker wrote “The Reconstruction of Religious Thought in Islam”?
+A. Shah Waliullah
+*B. Allama Iqbal
+C. Syed Qutb
+D. Maulana Maududi
+
+45. The doctrine of Ijbar in Islamic theology is related to:
+A. Shirk
+B. Political rule
+*C. Predestination (fatalism)
+D. Ijma'
+
+46. The "Maqasid al-Shariah" (higher objectives of Islamic law) include all EXCEPT:
+A. Preservation of religion
+B. Preservation of intellect
+*C. Preservation of territory
+D. Preservation of lineage
+
+47. Who is known for formulating the classification of Hadith into Sahih, Hasan, Da’if, and Mawdu’?
+A. Imam Malik
+B. Imam Shafi’i
+*C. Imam Ibn Hajar al-Asqalani
+D. Imam Bukhari
+
+48. The Qur’anic concept of Dar al-Harb vs Dar al-Islam was first systematically introduced by:
+A. Al-Ghazali
+*B. Imam Abu Hanifa
+C. Ibn Taymiyyah
+D. Imam Shatibi
+
+49. Which Surah explicitly prohibits backbiting by likening it to eating the flesh of one’s dead brother?
+A. Surah Ahzab
+B. Surah Nur
+*C. Surah Hujurat
+D. Surah Maida
+
+50. The Famous “Verse of Obedience” (Obey Allah, His Messenger, and those in authority...) is in which Surah?
+A. Surah Baqarah
+B. Surah Yasin
+*C. Surah An-Nisa
+D. Surah Al-Imran
+
+51. Which field did Imam Al-Shatibi revolutionize in Usul al-Fiqh?
+A. Classification of Hadith
+B. Refutation of Greek logic
+*C. Theory of Maqasid al-Shariah
+D. Legal maxims (Qawaid Fiqhiyyah)
+
+52. What is the Hanbali view on the use of Qiyas (analogy) in jurisprudence?
+A. Fully accepts it
+*B. Accepts with caution, prefers literal texts
+C. Rejects it entirely
+D. Only accepts in Hudood cases
+
+53. The Arabic term Istihsan is closest in meaning to:
+A. Rational deduction
+*B. Juristic preference
+C. Communal consensus
+D. Textual comparison
+
+54. In the Qur’an, the concept of “Wilayah” (spiritual guardianship) is most closely associated with:
+A. Prophethood
+*B. Deep spiritual faith and guidance
+C. Inheritance
+D. Legal authority
+
+55. The Hudaybiyyah Treaty is considered a “clear victory” in the Qur’an. In which Surah is this mentioned?
+A. Surah Taubah
+B. Surah Al-Baqarah
+*C. Surah Al-Fath
+D. Surah Al-Mumtahanah
+
+56. The Asha’irah school in Islamic theology defended which of the following?
+A. Pure rationalism
+*B. A balance between reason and revelation
+C. Rejection of Hadith
+D. Political rule of scholars
+
+57. What term describes the Islamic mystical path toward self-purification?
+A. Fiqh
+B. Aqeedah
+*C. Tazkiyah
+D. Shariah
+
+58. According to Islamic tradition, the first written Constitution in history is:
+A. Treaty of Hudaybiyyah
+*B. Mithaq-e-Madina
+C. Constitution of Mecca
+D. Pact of Aqabah
+
+59. In Surah Al-Mujadila, Allah says, “No secret consultation takes place except...” — this warns about:
+A. False testimony
+B. Innovation
+*C. Hypocrisy in private dealings
+D. Public ridicule
+
+60. Which movement emphasized political Islam and revivalist ideology in the 20th century?
+A. Wahhabism
+B. Tablighi Jamaat
+*C. Ikhwan-ul-Muslimeen (Muslim Brotherhood)
+D. Qadriyya
+
+61. Which country brokered the ceasefire deal between Israel and Hamas in May 2024?
+A. United States
+B. France
+*C. Egypt
+D. Turkey
+
+62. Pakistan signed the “Green Energy Corridor” MoU with which country in early 2025?
+A. Iran
+*B. Saudi Arabia
+C. China
+D. UAE
+
+63. The “Chabahar Port” agreement signed in 2024 aims to boost trade between India and:
+A. Pakistan
+B. Qatar
+*C. Iran
+D. Russia
+
+64. In 2025, Pakistan was elected to which key United Nations body?
+A. UNSC
+B. UNHCR
+*C. ECOSOC
+D. UNESCO Executive Board
+
+65. As of 2025, which international body has officially declared climate displacement a form of refugee crisis?
+A. World Bank
+*B. UNHCR
+C. WHO
+D. Amnesty International
+
+66. In early 2025, which military alliance conducted Operation Iron Shield in Eastern Europe amid Russia-NATO tensions?
+A. EU Rapid Forces
+B. CSTO
+*C. NATO
+D. UN Peacekeeping Forces
+
+67. The “Strategic Economic Dialogue” held in March 2025 involved Pakistan and which global power?
+A. UK
+*B. China
+C. USA
+D. Turkey
+
+68. In 2024, which neighboring country faced mass protests over constitutional changes giving extended powers to its military?
+A. India
+B. Bangladesh
+*C. Sri Lanka
+D. Afghanistan
+
+69. Who became the first female Governor of the State Bank of Pakistan in 2024?
+A. Shamshad Akhtar
+B. Rukhsana Yasmeen
+*C. Dr. Sima Kamil
+D. Hina Rabbani Khar
+
+70. The 2025 SCO Summit was held in which member country?
+A. China
+B. Kazakhstan
+*C. Uzbekistan
+D. Russia
+
+71. Which international court issued an arrest warrant for Israeli leaders over Gaza war crimes in 2024?
+A. UN Security Council
+B. ICJ
+*C. ICC (International Criminal Court)
+D. ICRC
+
+72. Pakistan resumed trade in early 2025 through which border crossing with Iran after a year-long suspension?
+A. Taftan
+B. Mand
+*C. Gabd
+D. Chaman
+
+73. Which key regional pipeline project remains stalled due to US sanctions in 2025?
+A. TAPI
+*B. Iran-Pakistan Gas Pipeline
+C. CASA-1000
+D. CPEC Rail Link
+
+74. In May 2025, Pakistan launched its first locally assembled electric bus fleet in which city?
+A. Lahore
+*B. Karachi
+C. Islamabad
+D. Peshawar
+
+75. Pakistan joined which climate finance initiative led by the World Bank in 2025?
+A. Global Green Pact
+*B. Resilient Nations Fund
+C. EcoRise
+D. Asia Renewables Alliance
+
+76. As of mid-2025, which country has NOT recognized the Taliban government in Afghanistan?
+A. Pakistan
+B. Iran
+*C. United Nations
 D. China
 
-84.Which Country is second largest Contributor to UN after USA?
-A. Russia
-B. Saudi Arabia
-*C. China
-D. France
+77. The “Red Sea Crisis” in 2024 disrupted global trade due to Houthi attacks on:
+A. Submarine cables
+B. Oil pipelines
+*C. Commercial shipping routes
+D. Port facilities
 
-85.Which Country has been Ranked as the Worlds Second Largest Weapons Manufacturer?
-A. USA
-B. Russia
-*C. China
-D. Pakistan
+78. In which city was the OIC Emergency Summit on Palestine held in late 2024?
+A. Riyadh
+B. Doha
+*C. Jeddah
+D. Cairo
 
-86.Where did Pakistan rank on the GFP Index for global military power?
-A.7th
-B.9th
-*C.12th
-D.14th
+79. As of 2025, which international organization removed Pakistan from its watchlist on digital misinformation policies?
+A. Amnesty International
+B. UNDP
+*C. Freedom House
+D. Reporters Without Borders
 
-87.Which organization downgraded Pakistan's GDP growth outlook for 2025 to 3%?
-*A.IMF
-B.UN
-C.ADB
-D.World Bank
+80. Pakistan’s foreign reserves saw significant growth in Q2 2025 due to:
+A. Military aid
+*B. IMF’s Extended Fund Facility (EFF) final tranche
+C. Oil export profits
+D. Debt write-off by China
 
-88.Who has been appointed as the Inspector General (IG) of Khyber Pakhtunkhwa?
-A.Arshad Khan
-B.Aslam Khan
-*C.Zulfiqar Hameed
-D.Muhammad Rizwan
+81. Choose the correct synonym of “Intransigent”:
+A. Yielding
+*B. Uncompromising
+C. Temporary
+D. Hesitant
 
-89.According to the Henley Passport Index 2025, what is the global ranking of Pakistan's passport?
-A.102nd
-*B.103rd 
-C.104th
-D.None of these
+82. Choose the correct antonym of “Loquacious”:
+A. Talkative
+*B. Reserved
+C. Friendly
+D. Witty
 
-90.Who holds the Presidency of UNSC for January 2025?
-A.Russia
-B.US
-C.China
-*D.Algeria
+83. Choose the correct indirect speech:
+She said to her colleague, “Had you notified the committee about the incident before submitting your resignation, the issue might have been resolved internally.”
+A. She asked her colleague if she notified the committee before she resigned.
+B. She told her colleague that had she notified the committee before resigning, the issue might be solved.
+*C. She told her colleague that if she had notified the committee about the incident before submitting her resignation, the issue might have been resolved internally.
+D. She inquired whether she resigned before notifying the committee.
 
-91.On January 1, 2025, which two countries became full members of Schengen Area?
-A.Croatia and Poland
-*B.Romania and Bulgaria
-C.Hungary and Slovakia
-D.Bulgaria and Cyprus
+84. Choose the correct passive voice:
+They had been discussing the revised constitutional clauses for over three hours when the power went out.
+A. The revised constitutional clauses had been discussed by them for over three hours when the power went out.
+B. The revised constitutional clauses were being discussed by them for over three hours when power was gone.
+*C. The revised constitutional clauses had been being discussed by them for over three hours when the power went out.
+D. The revised constitutional clauses were discussed for hours by them before power outage.
 
-92.Which country did the US remove from the U.S. terrorism list?
-A.Iran
-*B.Cuba
-C.Syria
-D.North Korea
+85. Choose the correct meaning of the idiom: “To upset the apple cart”
+A. To resolve a dispute
+*B. To ruin carefully made plans
+C. To save a situation from failure
+D. To behave arrogantly
 
-93.What is the ranking of the PAF in the world’s most powerful air forces by Global Firepower?
-A.5th 
-B.4th
-*C.7th
-D.2nd
+86. Choose the correctly punctuated sentence:
+A. If however you insist we shall proceed.
+*B. If, however, you insist, we shall proceed.
+C. If however, you insist; we shall proceed.
+D. If however you insist; we shall proceed.
 
-94. Who won the 3rd SAARC Snooker Championship?
-A.Muhammad Bilal
-*B.Mohammad Asif
-C.Amir Tariq
-D.None of these
+87. Choose the grammatically correct version of the sentence:
+Despite the fact that he was offered a lucrative package, along with additional incentives and benefits, he declined the offer stating that it did not align with his long-term professional vision.
+A. Despite offering him a good package, incentives and benefits, he declined.
+B. He declined the offer because it didn’t match his vision.
+*C. Although the offer included a lucrative package, incentives and benefits, he declined, stating it didn’t align with his long-term vision.
+D. He declined a lucrative offer because he had a vision.
 
-95.What new law did Pakistan’s National Assembly pass on January 21, 2025?
-A.Digital Media Regulation Act
-B.None of these
-C.Social Media Control Act
-*D.Social Media Protection and Regulation Law
+88. Choose the correct synonym of “Perfunctory”:
+A. Careful
+B. Profound
+*C. Superficial
+D. Complete
 
-96.Who is the current NATO Chief?
-A.Anders Fogh Rasmussen
-*B.Mark Rutte
-C.Jens Stoltenberg
-D.Alessandro Minuto-Rizzo
+89. Choose the correct antonym of “Esoteric”:
+A. Complicated
+*B. Common
+C. Mysterious
+D. Symbolic
 
-97.Which edition of General Election was held in Pakistan on 8 February 2024?
-A.10
-B.11
-*C.12
-D.13
+90. Choose the correct active voice:
+The multi-phase policy framework, which had been meticulously prepared and reviewed by experts over several weeks, was finally approved by the cabinet.
+A. Experts approved and prepared the framework.
+B. Experts finalized the framework in the cabinet.
+*C. Experts had meticulously prepared and reviewed the multi-phase policy framework over several weeks before the cabinet finally approved it.
+D. The cabinet approved the prepared framework.
 
-98.Which country hosted high-level meeting on Israel-Palestine two-state solution on 13 September 2024?
-A.Qatar
-*B.Spain
-C.UAE
-D.Lebanon
+91. Choose the correct meaning of the idiom: “To keep one’s ear to the ground”
+A. To lie down and rest
+*B. To stay informed about recent trends or happenings
+C. To avoid danger
+D. To act cautiously
 
-99.Justice Yahya Afridi is the ______Chief Justice of Pakistan.
-A.29th
-*B.30th
-C.31st
-D.None of these
+92. Choose the correct indirect speech:
+He said to the chairman, “Sir, were the proposals not submitted before the deadline because your secretary was unavailable that day?”
+A. He asked the chairman if his secretary was unavailable on the submission day.
+B. He said that the proposals were not submitted because the secretary was not available.
+*C. He respectfully inquired whether the proposals had not been submitted before the deadline due to the chairman’s secretary being unavailable that day.
+D. He asked about the reason the secretary didn’t submit the proposals.
 
-100.Which country has recently become the world most sanctioned country in the World?
-A.Iran
-B.North Korea
-*C.Russia
-D.Venezuela
+93. Choose the correct sentence structure:
+A. No sooner he had completed the presentation, the panel began asking questions.
+*B. No sooner had he completed the presentation than the panel began asking questions.
+C. No sooner he completed the presentation then questions began.
+D. No sooner did he complete the presentation, questions started.
 
+94. Choose the correct punctuated sentence:
+A. The manager, after verifying the records permitted the disbursement of funds.
+B. The manager after verifying the records, permitted the disbursement of funds.
+*C. The manager, after verifying the records, permitted the disbursement of funds.
+D. The manager; after verifying the records: permitted the disbursement.
+
+95. Choose the correct sentence improvement:
+The speaker, although exhausted by the continuous questioning and the intense heat of the room, continued addressing the audience in a composed manner.
+A. Though exhausted and heated, the speaker talked.
+B. Exhausted he still continued speaking.
+*C. Despite being exhausted by questioning and heat, the speaker continued addressing the audience composedly.
+D. The speaker was exhausted and composed too.
+
+96. Choose the correct antonym of “Obsequious”:
+A. Submissive
+*B. Assertive
+C. Flattering
+D. Polite
+
+97. Choose the correct synonym of “Recalcitrant”:
+A. Cooperative
+*B. Defiant
+C. Respectful
+D. Silent
+
+98. Choose the correct passive voice:
+The board may have overlooked several crucial compliance errors due to the overwhelming volume of data in the audit report.
+A. The board may overlook the compliance errors.
+*B. Several crucial compliance errors may have been overlooked due to the overwhelming volume of data in the audit report.
+C. The board was overwhelmed and overlooked the report.
+D. The audit report may be overlooked by the board.
+
+99. Choose the correct meaning of the phrase: “To cut the Gordian knot”
+A. To start a difficult task
+B. To untie a rope
+*C. To solve a complex problem with bold action
+D. To avoid decision-making
+
+100. Choose the grammatically correct and contextually refined sentence:
+A. He was not only tired, but also he had lost all interest in continuing the debate.
+B. Not only he was tired, but he was uninterested.
+*C. Not only was he tired, but he had also lost all interest in continuing the debate.
+D. He had not only lost interest, but also tired.
 
 
 
